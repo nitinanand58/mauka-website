@@ -1,0 +1,29 @@
+.footer-container {
+  background-image: url("../assets/footer-img.png");
+  background-repeat: no-repeat;
+  height: 300px;
+}
+
+.footer-row {
+  margin-top: 40px;
+}
+
+.footer-logo {
+  width: 6.812rem;
+  height: 10.563rem;
+  margin-top: 100px;
+  font-size: 1.938rem;
+  font-weight: bold;
+  font-stretch: normal;
+}
+
+.footer-list {
+  margin-top: 10px;
+  list-style-type: none;
+  padding-left: 0rem;
+}
+
+.footer-list li {
+  margin: 7px 0px;
+  list-style-type: none;
+}

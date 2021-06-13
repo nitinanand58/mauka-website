@@ -1,0 +1,100 @@
+.header-bg {
+  width: 1366px;
+  height: 768px;
+  background-image: linear-gradient(to bottom, #edfdfd, rgba(241, 254, 254, 0));
+}
+
+.nav-logo {
+  width: 65px;
+}
+
+.nav-header {
+  width: 148px;
+  height: 56px;
+  font-size: 42px;
+  font-weight: bolder;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+}
+
+.nav-menu li {
+  margin: 0px 25px;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.nav-btn {
+  width: 141px;
+  height: 46px;
+  padding: 9px 48px 13px 38px;
+  border-radius: 10px;
+  border: solid 2px #14dfdf;
+  background: #edfdfd;
+}
+
+.header-row {
+  height: 700px;
+}
+
+.header-left {
+  width: 1366px;
+  height: 600px;
+  margin: 0 0 99.4px 100px;
+  padding: 18.5px 117px 106px 139px;
+}
+
+.main-heading {
+  width: 25.25rem;
+  height: 4.625rem;
+  font-size: 3.5rem;
+  font-weight: bold;
+  color: #374b5c;
+}
+
+.header-btn {
+  width: 13.75rem;
+  height: 3.375rem;
+  padding: 12px 64px 16px 64px;
+  border-radius: 10px;
+  border: none;
+  background: #14dfdf;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  letter-spacing: normal;
+}
+
+.header-right {
+  margin: 0px 0px 0px 80px;
+}
+
+.header-square {
+  width: 300px;
+  height: 300px;
+  margin: 150px 17px 0 86.7px;
+  padding: 23px 22px 23px 23px;
+  background-color: white;
+}
+
+.header-image {
+  width: 260px;
+  height: 260px;
+  padding: 64.5px 65.3px 65px 66px;
+  border: solid 3px #14dfdf;
+}
+
+.header-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 140px;
+  height: 140px;
+}
+
+.flower-img {
+  width: 300px;
+  height: 572px;
+  margin: -209px 337px 5.4px 36px;
+}
